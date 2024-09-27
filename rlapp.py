@@ -10,6 +10,7 @@ from darts.models import BlockRNNModel
 from darts.dataprocessing.transformers import MissingValuesFiller, Scaler
 import plotly.express as px
 import datetime
+import gymnasium as gym
 
 st.header('Reinforcement Learning for Optimizing Stock Portfolio')
 st.write('Select a portfolio of up to 10 of the top 10 US Stocks')
