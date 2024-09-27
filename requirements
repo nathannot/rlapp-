@@ -1,5 +1,5 @@
 streamlit 
-stable_baselines3 
+stable_baselines3 == 2.3.2
 yfinance
 pandas
 numpy 
