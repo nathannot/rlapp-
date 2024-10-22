@@ -1,8 +1,12 @@
-streamlit 
+streamlit == 1.37.1
 stable_baselines3 == 2.3.2
-yfinance
-pandas
-numpy 
-darts 
-plotly
+yfinance == 0.2.43
+pandas == 1.5.3
+numpy == 1.24.4
+darts == 0.30.0
+plotly == 5.23.0
 gymnasium 
+
+
+
+
